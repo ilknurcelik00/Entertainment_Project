@@ -1,0 +1,4 @@
+Faker>=37,<38
+oracledb>=4,<5
+python-dotenv>=1,<2
+requests>=2,<3
